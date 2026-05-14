@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-agents",
+  "displayName": "Airbyte Agents",
+  "description": "Let AI agents query data and act across all your business apps via MCP.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Airbyte"
+  },
+  "keywords": ["mcp", "data", "agents", "integrations", "api"],
+  "license": "MIT"
+}
