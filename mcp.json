@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "airbyte-agents": {
+      "url": "https://mcp.airbyte.ai/mcp"
+    }
+  }
+}
