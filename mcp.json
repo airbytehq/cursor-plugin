@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "airbyte": {
+    "Airbyte": {
       "url": "https://mcp.airbyte.com/mcp"
     }
   }

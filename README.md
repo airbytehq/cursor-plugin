@@ -19,7 +19,7 @@ With the Airbyte MCP, your agent can:
 ## Get started
 
 1. Install the Airbyte MCP plugin from the Cursor Marketplace.
-2. In **Cursor Settings** > **Tools and MCP**, find **airbyte** and click **Connect**.
+2. In **Cursor Settings** > **Tools and MCP**, find **Airbyte** and click **Connect**.
 3. Your browser opens the Airbyte Cloud sign-in page. Sign in and grant access. If your organization uses single sign-on, select **Sign in with SSO** and enter your company identifier.
 4. In the chat panel, ask the agent to work with Airbyte in plain language.
 
