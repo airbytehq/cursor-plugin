@@ -1,17 +1,17 @@
 {
-  "name": "airbyte-agents",
-  "displayName": "Airbyte Agents",
-  "description": "Let AI agents query data and act across all your business apps via MCP.",
+  "name": "airbyte-mcp",
+  "displayName": "Airbyte MCP",
+  "description": "Connect AI agents to your Airbyte organization to build, manage, and troubleshoot ETL and ELT data pipelines, and read data directly from sources and destinations.",
   "version": "1.0.0",
   "author": {
     "name": "Airbyte"
   },
-  "homepage": "https://airbyte.com",
+  "homepage": "https://docs.airbyte.com/platform/airbyte-mcp",
   "repository": "https://github.com/airbytehq/cursor-plugin",
-  "license": "Elastic-2.0",
+  "license": "MIT",
   "logo": "assets/logo.svg",
-  "keywords": ["mcp", "data", "agents", "integrations", "api"],
+  "keywords": ["mcp", "airbyte", "data", "etl", "elt", "pipelines", "data pipelines", "data integration", "connectors", "agents"],
   "category": "data",
-  "tags": ["mcp", "data", "agents"],
+  "tags": ["mcp", "data", "etl", "elt", "pipelines", "data integration", "agents"],
   "mcpServers": "mcp.json"
 }
